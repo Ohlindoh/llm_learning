@@ -9,7 +9,9 @@
   - **Notes:** I've found these really helpful for figuring out how to do something quickly (e.g. get up and running with Langchain) with little filler
 - [Fast.ai](https://www.fast.ai/)
   - **Notes:** The GOAT for technical people trying to learn AI
-   
+-[Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+  - **Notes:** Looks great, not cheap and has some pre-reqs but looks like one of the best online non-grad degree programs. Looks to be directly from Stanford and not any sort of provider (2U, Emeritus, etc.)
+
 ## Reading
 - [A16z AI Canon](https://a16z.com/ai-canon/)
   - **Notes:** Pretty self explanatory, should probabaly read through everything on here
